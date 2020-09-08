@@ -1,0 +1,5 @@
+[preload  storage="./data/bgimage/nc171057.png"  ]
+[preload  storage="./data/bgimage/nc173931.png"  ]
+[preload  storage="./data/bgimage/nc201814.jpg"  ]
+[preload  storage="./data/bgimage/nc210056.png"  ]
+[return]
